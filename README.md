@@ -1,4 +1,4 @@
-# Hi, I'm Abdelrhman Essam 👋
+# Hi, I'm Abdelrhman Essam
 
 **Backend Developer** focused on building clean, reliable web APIs and web applications with **ASP.NET Core** and **SQL Server**.
 
